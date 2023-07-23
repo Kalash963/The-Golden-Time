@@ -1,2 +1,4 @@
 # The-Golden-Time
-This is the men's watch website made with the help of HTML, CSS, JS where a person can buy watches.
+Link :- 
+Designed a watch website with front-hand using HTML, CSS, Bootstrap and JS. Allow users to search and explore
+new collections of watches
